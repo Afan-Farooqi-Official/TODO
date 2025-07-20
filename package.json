@@ -1,0 +1,16 @@
+{
+  "name": "to_do_list",
+  "version": "1.0.0",
+  "description": "An interactive and visually appealing to-do list app built with HTML, CSS, and JavaScript. Manages tasks dynamically using DOM manipulation, with smooth user experience.",
+  "keywords": [
+    "Todo-list",
+    "javascript"
+  ],
+  "license": "ISC",
+  "author": "Afan-Qaiser-Official",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
